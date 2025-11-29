@@ -3,9 +3,9 @@
 <img width="669" height="566" alt="Screenshot 2025-11-28 193357" src="https://github.com/user-attachments/assets/071b36c0-f302-4435-9ce3-86ed4eff93de" />
 
 # BOM:
-4x Cherry MX Switches
-2x SK6812 MINI Leds
-1x XIAO RP2040
-4x Blank DSA Keycaps
-4x M3x16 Bolt
-4x M3 Heatset
+- 4x Cherry MX Switches
+- 2x SK6812 MINI Leds
+- 1x XIAO RP2040
+- 4x Blank DSA Keycaps
+- 4x M3x16 Bolt
+- 4x M3 Heatset
