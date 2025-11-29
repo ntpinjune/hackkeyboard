@@ -5,7 +5,7 @@
 <img width="1052" height="674" alt="Screenshot 2025-11-29 102050" src="https://github.com/user-attachments/assets/4900acb0-8c8d-492a-b57c-643d2acd0478" />
 
 # What I have learned
-Throughout this project I have learned numerous skills regarding CAD and PCB design. I have troubleshooted many problems involving issues with importing PCB designs. I hope to use these skills to make more projects int he future.
+Throughout this project I have learned numerous skills regarding CAD and PCB design. I have troubleshooted many problems involving issues with importing PCB designs. I hope to use these skills to make more projects in the future.
 
 # Purpose
 I hope to program custom scripts for each of the keys on this microcontroller.
